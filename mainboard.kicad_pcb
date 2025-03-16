@@ -31175,6 +31175,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "npn: bc547\npnp: bc557"
+		(at 100 121 90)
+		(layer "F.SilkS")
+		(uuid "6b7c3ab5-16c6-4d13-ad19-2f955efb833e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "SCM 140 ADSR - MAIN BOARD"
 		(at 151.6761 84.0486 0)
 		(layer "F.SilkS")

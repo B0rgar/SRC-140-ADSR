@@ -7932,7 +7932,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 322.58 322.58 0)
 			(effects
 				(font
@@ -9783,7 +9783,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-PNP-TO92-EBC"
+		(property "Value" "BC557B-PNP-EBC"
 			(at 396.24 317.5 0)
 			(effects
 				(font
@@ -10260,7 +10260,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 381 350.52 0)
 			(effects
 				(font
@@ -10692,7 +10692,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 396.24 292.1 0)
 			(effects
 				(font
@@ -11304,7 +11304,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 347.98 218.44 0)
 			(effects
 				(font
@@ -11446,7 +11446,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-PNP-TO92-EBC"
+		(property "Value" "BC557B-PNP-EBC"
 			(at 208.28 157.48 0)
 			(effects
 				(font
@@ -12414,7 +12414,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-PNP-TO92-EBC"
+		(property "Value" "BC557B-PNP-EBC"
 			(at 114.3 68.58 0)
 			(effects
 				(font
@@ -12968,7 +12968,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 193.04 190.5 0)
 			(effects
 				(font
@@ -13997,7 +13997,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-PNP-TO92-EBC"
+		(property "Value" "BC557B-PNP-EBC"
 			(at 393.7 243.84 0)
 			(effects
 				(font
@@ -14402,7 +14402,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 208.28 132.08 0)
 			(effects
 				(font
@@ -14632,7 +14632,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 134.62 162.56 0)
 			(effects
 				(font
@@ -15403,7 +15403,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 370.84 358.14 0)
 			(effects
 				(font
@@ -16311,7 +16311,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 198.12 149.86 0)
 			(effects
 				(font
@@ -16449,7 +16449,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 281.94 236.22 0)
 			(effects
 				(font
@@ -17414,7 +17414,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 386.08 309.88 0)
 			(effects
 				(font
@@ -18927,7 +18927,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 160.02 58.42 0)
 			(effects
 				(font
@@ -19222,7 +19222,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-PNP-TO92-EBC"
+		(property "Value" "BC557B-PNP-EBC"
 			(at 205.74 83.82 0)
 			(effects
 				(font
@@ -19522,7 +19522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 93.98 76.2 0)
 			(effects
 				(font
@@ -19859,7 +19859,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-PNP-TO92-EBC"
+		(property "Value" "BC557B-PNP-EBC"
 			(at 302.26 228.6 0)
 			(effects
 				(font
@@ -20205,7 +20205,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "-NPN-TO92-CBE"
+		(property "Value" "BC547B-NPN-CBE"
 			(at 182.88 198.12 0)
 			(effects
 				(font
