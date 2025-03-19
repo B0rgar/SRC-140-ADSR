@@ -3,7 +3,7 @@
 # SRC-140-ADSR
  Dual ADSR based on Eagleproject from Gerbster.nl.
 
-imported to kicad. panel made.
+imported to kicad. panel made. I regret not changing to thonkicon jacks.
 PCBS ordered from JLCPCB. will update after building and testing.
 
 ![sm_blue_top (2)](https://github.com/user-attachments/assets/fc1d1554-27cb-4c8c-a8b2-fda8479aabda)
