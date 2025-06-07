@@ -7951,7 +7951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 332.74 327.66 0)
 			(effects
 				(font
@@ -9801,7 +9801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC557B"
 			(at 406.4 322.58 0)
 			(effects
 				(font
@@ -10278,7 +10278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 391.16 355.6 0)
 			(effects
 				(font
@@ -10710,7 +10710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 406.4 297.18 0)
 			(effects
 				(font
@@ -11323,7 +11323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 358.14 223.52 0)
 			(effects
 				(font
@@ -11464,7 +11464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC557B"
 			(at 218.44 162.56 0)
 			(effects
 				(font
@@ -12433,7 +12433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC557B"
 			(at 124.46 73.66 0)
 			(effects
 				(font
@@ -12986,7 +12986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 203.2 195.58 0)
 			(effects
 				(font
@@ -14015,7 +14015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC557B"
 			(at 398.78 233.68 0)
 			(effects
 				(font
@@ -14420,7 +14420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 218.44 137.16 0)
 			(effects
 				(font
@@ -14651,7 +14651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 144.78 167.64 0)
 			(effects
 				(font
@@ -15421,7 +15421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 381 363.22 0)
 			(effects
 				(font
@@ -16329,7 +16329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 208.28 154.94 0)
 			(effects
 				(font
@@ -16468,7 +16468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 292.1 241.3 0)
 			(effects
 				(font
@@ -17432,7 +17432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 396.24 314.96 0)
 			(effects
 				(font
@@ -18946,7 +18946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 170.18 63.5 0)
 			(effects
 				(font
@@ -19240,7 +19240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC557B"
 			(at 210.82 73.66 0)
 			(effects
 				(font
@@ -19541,7 +19541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -19878,7 +19878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC557B"
 			(at 312.42 233.68 0)
 			(effects
 				(font
@@ -20223,7 +20223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "BC547B"
 			(at 193.04 203.2 0)
 			(effects
 				(font
